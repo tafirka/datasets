@@ -1,2 +1,2 @@
 # datasets
-A collection of datasets of Machine Learning problem solving
+Datasets for research, experimentation, and problem-solving in Machine Learning.
